@@ -19,7 +19,7 @@ fun Contact (modifier: Modifier = Modifier){
     Column (
         verticalArrangement = Arrangement.Bottom,
         horizontalAlignment = Alignment.Start,
-        modifier = Modifier.padding(top = 250.dp, bottom = 50.dp)
+        modifier = Modifier.padding(top = 200.dp, bottom = 50.dp)
     ) {
         Row (
             verticalAlignment = Alignment.CenterVertically,
